@@ -15,7 +15,7 @@ This is a simple Todo application built with Node.js, Express, and EJS, integrat
 ## ⚙️ Project Features
 
 - Automated CI/CD pipeline via Jenkins
-- Webhook integration for continuous deployment
+- continuous deployment
 - Dockerized application build and run
 - Hosted on EC2 instance with Jenkins installed via Docker
 
